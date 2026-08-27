@@ -1,7 +1,5 @@
 # Dhruv Shetty 
 
-I’m currently learning Data Science
-
 <!--
 **DhruvShetty-DSS/DhruvShetty-DSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
