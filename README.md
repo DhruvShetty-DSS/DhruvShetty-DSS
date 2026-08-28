@@ -6,7 +6,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
 
 ![](https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false)<br/>
 
