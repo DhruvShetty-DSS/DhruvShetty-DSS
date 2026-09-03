@@ -1,7 +1,6 @@
 # Dhruv Shetty
 
-
-
+---
 
 
 ## 💻 Tech Stack:
