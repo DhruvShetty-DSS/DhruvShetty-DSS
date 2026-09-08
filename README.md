@@ -61,23 +61,15 @@ I’m an **IT engineering student** passionate about building things with **AI, 
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    width="49%"
-  />
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false"
-    width="49%"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    width="55%"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+
+![](https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false)<br/>
+
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
