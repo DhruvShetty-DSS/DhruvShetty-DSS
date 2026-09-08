@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Dhruv Shetty
 
-### 💻 IT Engineering Student • AI/ML • Full-Stack Development
+### 💻 IT Engineering Student •
 
-I’m an **IT engineering student** passionate about building things with **AI, software, and web technologies**.
+I’m an **IT engineering student** passionate about building things with **AI, software, Data science and web technologies**.
 
-* 🤖 Exploring **AI / ML & LLMs**
+* 🤖 Exploring **Data Science**
 * 🌐 Building **full-stack applications**
 * 🧠 Learning **Data Structures & Algorithms**
 * 🚀 Turning ideas into real-world projects
