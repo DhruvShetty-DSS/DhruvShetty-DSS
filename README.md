@@ -57,14 +57,7 @@ I’m an **IT engineering student** passionate about building things with **AI, 
 
 ---
 
-## 🚀 What I'm Working On
 
-```text
-🤖 Artificial Intelligence & Machine Learning
-🌐 Full-Stack Web Applications
-📚 Data Structures & Algorithms
-🧠 LLMs & AI-powered applications
-☁️ Cloud & modern developer tools
 ```
 
 ---
@@ -108,36 +101,4 @@ I’m an **IT engineering student** passionate about building things with **AI, 
 
 ---
 
-## 💡 A Little More About Me
-
-```yaml
-name: Dhruv Shetty
-field: Information Technology
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full-Stack Development
-  - Data Science
-  - Software Engineering
-
-currently:
-  learning: "Building better software"
-  exploring: "AI-powered applications"
-  goal: "Turn ideas into useful products"
-
-motto: "Build. Learn. Improve. Repeat."
 ```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/DhruvShetty-DSS">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
