@@ -55,10 +55,6 @@ I’m an **IT engineering student** passionate about building things with **AI, 
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white"/>
 </p>
 
----
-
-
-```
 
 ---
 
@@ -101,4 +97,3 @@ I’m an **IT engineering student** passionate about building things with **AI, 
 
 ---
 
-```
