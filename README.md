@@ -1,14 +1,14 @@
-# 👋 Hey, I'm Dhruv Shetty
+# Hey, I'm Dhruv Shetty
 
-### 💻 IT Engineering Student •
+### 💻 IT Engineering Student 
 
 I’m an **IT engineering student** passionate about building things with **AI, software, Data science and web technologies**.
 
-* 🤖 Exploring **Data Science**
-* 🌐 Building **full-stack applications**
-* 🧠 Learning **Data Structures & Algorithms**
-* 🚀 Turning ideas into real-world projects
-* 🛠️ Currently improving my development & problem-solving skills
+* Exploring **Data Science**
+* Building **full-stack applications**
+* Learning **Data Structures & Algorithms**
+* Turning ideas into real-world projects
+* Currently improving my development & problem-solving skills
 
 ---
 
@@ -60,40 +60,15 @@ I’m an **IT engineering student** passionate about building things with **AI, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvShetty-DSS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShetty-DSS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
-</p>
 
----
 
-## 📈 Contribution Activity
+![](https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvShetty-DSS&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DhruvShetty-DSS/DhruvShetty-DSS/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-
-`Artificial Intelligence` • `Machine Learning` • `LLMs` • `React` • `Backend Development` • `DSA` • `Cloud`
-
-</p>
-
----
-
