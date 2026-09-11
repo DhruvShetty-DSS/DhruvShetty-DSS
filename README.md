@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv Shetty</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Shetty
+</h1>
 
 <h3 align="center">A curious developer building things across web, data & design</h3>
 
@@ -55,26 +56,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white"/>
 </p>
 
----
-
-### 📌 Featured Projects
-
-<p>
-  <a href="https://github.com/DhruvShetty-DSS/Business_Intelligence">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Business_Intelligence&theme=dark&hide_border=false" />
-  </a>
-  <a href="https://github.com/DhruvShetty-DSS/Notes_Manager">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Notes_Manager&theme=dark&hide_border=false" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/DhruvShetty-DSS/SATARK">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=SATARK&theme=dark&hide_border=false" />
-  </a>
-  <a href="https://github.com/DhruvShetty-DSS/Mini-Project">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Mini-Project&theme=dark&hide_border=false" />
-  </a>
-</p>
 
 ---
 
