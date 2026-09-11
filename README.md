@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Shetty</h1>
+
 <h3 align="center">A curious developer building things across web, data & design</h3>
 
 ---
@@ -81,11 +82,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false" width="60%" />
 </p>
 
 ---
