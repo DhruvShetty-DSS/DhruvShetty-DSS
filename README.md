@@ -10,13 +10,11 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
-- 🎓 Working across **web development, databases, and data/BI tooling**
-- 🌱 Currently exploring new projects in **JavaScript & Python**
-- 🛠️ Comfortable in both **build (code)** and **design (Canva/Lightroom)** work
-- 📫 Reach me at: **your-email@example.com**  <!-- replace with your real contact -->
-- 🔗 Portfolio / LinkedIn: **add-your-link-here** <!-- optional -->
+- Working across **web development, data science, Machine learning**
+- Currently exploring new projects in **JavaScript & Python**
+- Comfortable in both **build (code)** and **design (Canva/Lightroom)** work
 
 ---
 
@@ -90,7 +88,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </p>
 
 <p align="center">
