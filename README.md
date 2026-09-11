@@ -1,8 +1,28 @@
-# Dhruv Shetty
+<h1 align="center">Hi 👋, I'm Dhruv Shetty</h1>
+<h3 align="center">A curious developer building things across web, data & design</h3>
 
-## ⚡ Tech Stack
+<p align="center">
+  <a href="https://github.com/DhruvShetty-DSS">
+    <img src="https://komarev.com/ghpvc/?username=DhruvShetty-DSS&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/DhruvShetty-DSS?label=Followers&style=social" alt="followers" />
+</p>
 
-### 👨‍💻 Languages
+---
+
+### 🧭 About Me
+
+- 🎓 Working across **web development, databases, and data/BI tooling**
+- 🌱 Currently exploring new projects in **JavaScript & Python**
+- 🛠️ Comfortable in both **build (code)** and **design (Canva/Lightroom)** work
+- 📫 Reach me at: **your-email@example.com**  <!-- replace with your real contact -->
+- 🔗 Portfolio / LinkedIn: **add-your-link-here** <!-- optional -->
+
+---
+
+### ⚡ Tech Stack
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -12,7 +32,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+**Web Development**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +40,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### 🗄️ Databases & Backend
+**Databases & Backend**
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -28,7 +48,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -36,28 +56,49 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-### 🎨 Design & Creative
+**Design & Creative**
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white"/>
 </p>
 
+---
+
+### 📌 Featured Projects
+
+<p>
+  <a href="https://github.com/DhruvShetty-DSS/Business_Intelligence">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Business_Intelligence&theme=dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/DhruvShetty-DSS/Notes_Manager">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Notes_Manager&theme=dark&hide_border=false" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/DhruvShetty-DSS/SATARK">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=SATARK&theme=dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/DhruvShetty-DSS/Mini-Project">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DhruvShetty-DSS&repo=Mini-Project&theme=dark&hide_border=false" />
+  </a>
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
-## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+</p>
 
-
-![](https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-
-![](https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false)<br/>
-
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DhruvShetty-DSS&theme=dark&hide_border=false" width="70%" />
+</p>
 
 ---
+
+<p align="center">
+  <i>Thanks for stopping by — always open to collaborating on interesting projects! 🚀</i>
+</p>
