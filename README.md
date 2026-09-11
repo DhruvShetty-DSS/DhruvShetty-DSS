@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Shetty</h1>
 <h3 align="center">A curious developer building things across web, data & design</h3>
 
-<p align="center">
-  <a href="https://github.com/DhruvShetty-DSS">
-    <img src="https://komarev.com/ghpvc/?username=DhruvShetty-DSS&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/DhruvShetty-DSS?label=Followers&style=social" alt="followers" />
-</p>
-
 ---
 
 ### About Me
@@ -88,7 +81,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvShetty-DSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
 </p>
 
 <p align="center">
